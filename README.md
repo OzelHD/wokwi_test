@@ -41,6 +41,4 @@ The GitHub action will automatically fetch the digital netlist from Wokwi and bu
 <img width="728" height="574" alt="image" src="https://github.com/user-attachments/assets/da1711ff-b061-4e3f-8fea-9149c594383e" />
 
 <img width="935" height="384" alt="image" src="https://github.com/user-attachments/assets/b6eef55d-e249-466a-8553-5d2dd7043d6e" />
-
-
-
+<img src="showcase.gif" width="600">
